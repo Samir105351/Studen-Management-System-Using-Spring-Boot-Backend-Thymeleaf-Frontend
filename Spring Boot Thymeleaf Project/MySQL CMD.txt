@@ -1,0 +1,8 @@
+username:root
+password:1234
+create database Student;
+use Student;
+show tables;
+drop database student;
+SHOW FULL TABLES;
+select*from Student.students
